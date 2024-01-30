@@ -3,9 +3,6 @@
   <br/>
   American Institute of Aeronautics and Astronautics (AIAA) Digital Engineering Integration Committee (DEIC) - Strategic Initiatives Collaboration Space
 </p>
-<p>
-  <a href="https://github.com/aiaa-deic/strategic-initiatives/actions/workflows/deployToGitHubPages.yaml"><img src="https://github.com/aiaa-deic/strategic-initiatives/actions/workflows/deployToGitHubPages.yaml/badge.svg?branch=main"></a>
-</p>
 
 ---
 
