@@ -1,5 +1,5 @@
 <p>
-  <img alt="AIAA Logo" width="350" style="margin-bottom: 25px;" src="https://raw.githubusercontent.com/aiaa-deic/devsecops/main/docs/public/img/darkLogo.png">
+  <img alt="AIAA Logo" width="350" style="margin-bottom: 25px;" src="https://raw.githubusercontent.com/aiaa-deic/strategic-initiatives/main/docs/public/img/darkLogo.png">
   <br/>
   American Institute of Aeronautics and Astronautics (AIAA) Digital Engineering Integration Committee (DEIC) - Strategic Initiatives Collaboration Space
 </p>
@@ -22,6 +22,10 @@ Currently this repository will be managed primarily by [Olivia Pinon-Fischer](ht
 - Collaboration on VVUQ and Reconciling Semantics Across Frameworks
 - Digital Engineering Workforce Working Group
 - Digital Thread / Digital Twin Integration Working Group
+
+## Website
+
+This repository also contains the files for the [aiaa-deic website](https://aiaadeic.org). You can find these in the `website` directory.
 
 ## Contacts
 
