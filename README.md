@@ -1,5 +1,5 @@
 <p>
-  <img alt="AIAA Logo" width="350" style="margin-bottom: 25px;" src="https://raw.githubusercontent.com/aiaa-deic/strategic-initiatives/main/docs/public/img/darkLogo.png">
+  <img alt="AIAA Logo" width="350" style="margin-bottom: 25px;" src="https://raw.githubusercontent.com/aiaa-deic/strategic-initiatives/main/website/docs/public/img/darkLogo.png">
   <br/>
   American Institute of Aeronautics and Astronautics (AIAA) Digital Engineering Integration Committee (DEIC) - Strategic Initiatives Collaboration Space
 </p>
