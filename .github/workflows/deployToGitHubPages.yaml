@@ -31,7 +31,7 @@ jobs:
       - name: Install Dependencies ⚙️
         run: |
           cd website
-          npm ci
+          npm i --legacy-peer-deps
 
       - name: Build Application 🏗️
         run: |
