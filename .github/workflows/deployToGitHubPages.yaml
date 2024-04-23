@@ -26,13 +26,16 @@ jobs:
         with:
           node-version: 20
           cache: "npm"
+          cache-dependency-path: website/package-lock.json
 
       - name: Install Dependencies ⚙️
         run: |
+          cd website
           npm i --legacy-peer-deps
 
       - name: Build Application 🏗️
         run: |
+          cd website
           npm run build
 
       - name: Deploy 🚀
@@ -40,7 +43,7 @@ jobs:
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: gh-pages
-          build_dir: docs/.vitepress/dist
+          build_dir: website/docs/.vitepress/dist
           commit_message: "chore(deploy): deploy docs Site to GitHub Pages"
           keep_history: false
           jekyll: false
