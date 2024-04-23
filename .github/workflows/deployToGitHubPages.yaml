@@ -29,10 +29,12 @@ jobs:
 
       - name: Install Dependencies ⚙️
         run: |
+          cd website
           npm ci
 
       - name: Build Application 🏗️
         run: |
+          cd website
           npm run build
 
       - name: Deploy 🚀
