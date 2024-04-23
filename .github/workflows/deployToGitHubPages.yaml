@@ -43,7 +43,7 @@ jobs:
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: gh-pages
-          build_dir: docs/.vitepress/dist
+          build_dir: website/docs/.vitepress/dist
           commit_message: "chore(deploy): deploy docs Site to GitHub Pages"
           keep_history: false
           jekyll: false
